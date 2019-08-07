@@ -1,5 +1,14 @@
+html {
+  position:relative;
+  min-height:100%
+}
+
 body {
   font-family:"Nunito"
+}
+
+.jumbotron, .jumbotron h1 {
+  margin-bottom:0px
 }
 
 .jumbotron img {
@@ -9,6 +18,19 @@ body {
   border-radius:50%
 }
 
-.jumbotron h1 {
+main {
+  padding-top:32px
+}
+
+.footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
+  height:60px;
+  line-height:60px;
+  background-color:#e9ecef
+}
+
+.footer p {
   margin-bottom:0
 }
