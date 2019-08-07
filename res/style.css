@@ -1,0 +1,14 @@
+body {
+  font-family:"Nunito"
+}
+
+.jumbotron img {
+  width:250px;
+  height:250px;
+  margin-bottom:32px;
+  border-radius:50%
+}
+
+.jumbotron h1 {
+  margin-bottom:0
+}
