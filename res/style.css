@@ -11,15 +11,19 @@ body {
   margin-bottom:0px
 }
 
+.jumbotron {
+  padding:3rem 2rem 2rem
+}
+
 .jumbotron img {
-  width:250px;
-  height:250px;
-  margin-bottom:32px;
+  width:150px;
+  height:150px;
+  margin-bottom:24px;
   border-radius:50%
 }
 
 main {
-  padding-top:32px
+  padding-top:24px
 }
 
 .footer {
@@ -33,4 +37,13 @@ main {
 
 .footer p {
   margin-bottom:0
+}
+
+@media screen and (max-width:576px) {
+  .jumbotron {
+    padding:1rem 2rem
+  }
+  .jumbotron img {
+    margin-bottom:16px
+  }
 }
