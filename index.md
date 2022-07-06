@@ -27,5 +27,7 @@ a hardware implementation of the OISC [abcout](https://esolangs.org/wiki/Abcout)
 ### where to find me
 
 i can be found on [GitHub](https://github.com/sporeball){:target="_blank"}, [Twitter](https://twitter.com/sporeball){:target="_blank"}, and [Mastodon](https://tech.lgbt/@sporeball){:target="_blank"}.\
-you can support me via [Patreon](https://patreon.com/sporeball){:target="_blank"}, like all of [these lovely people](/pages/thanks), or by listening to my music on [Bandcamp](https://sporeball.bandcamp.com){:target="_blank"}.\
 i also contribute to [Hack Club's scrapbook](https://scrapbook.hackclub.com/sporeball){:target="_blank"}.
+
+you can support me via [Patreon](https://patreon.com/sporeball){:target="_blank"}, or by listening to my music on [Bandcamp](https://sporeball.bandcamp.com){:target="_blank"}.\
+all of [these lovely people](/pages/thanks) have, at one time or another, decided to throw money at me by any of the above means.
