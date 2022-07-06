@@ -1,0 +1,10 @@
+title: sporeball
+description: sporeball's website
+encoding: utf-8
+
+remote_theme: sporeball/nimmoi
+
+sass:
+  style: compressed
+
+footer: "(c) sporeball 2022"
