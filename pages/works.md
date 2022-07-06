@@ -3,7 +3,7 @@ title: works
 layout: page
 ---
 
-otherwise known as *all the things i'm responsible for.*
+otherwise known as *all the things we're responsible for.*
 
 not all of these projects are officially completed, or even in an active state of development; the "status" underneath each entry should provide some clues.
 

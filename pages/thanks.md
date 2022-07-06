@@ -3,7 +3,7 @@ title: thanks!
 layout: page
 ---
 
-i pretty much just do what i do for fun, but all of these lovely people have, at one time or another, taken notice, and decided to throw money at me by any of the following means. *thank you all so much.*
+we pretty much just do what we do for fun, but all of these lovely people have, at one time or another, taken notice, and decided to throw money at us by any of the following means. *thank you all so much.*
 
 the idea for this page was shamelessly stolen from [Nicky Case](https://ncase.me){:target="_blank"}.
 
