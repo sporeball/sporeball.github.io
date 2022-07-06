@@ -3,7 +3,7 @@ title: sporeball
 layout: page
 ---
 
-![sporeball's avatar](res/avatar.png)
+![sporeball's avatar](assets/avatar.png)
 
 hi there!\
 we are a [plural system of 3 headmates](pages/system_information), making weird things slowly.\

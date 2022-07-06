@@ -5,7 +5,7 @@ layout: page
 
 we are a *plural system* of *3 headmates*.
 
-![all three headmates](/res/headmates.jpg)
+![all three headmates](/assets/headmates.jpg)
 
 this page only serves to describe each of us, and how to refer to us; [morethanone.info](https://morethanone.info){:target="_blank"} has some good information about the concept of plurality as a whole.
 
@@ -20,7 +20,7 @@ it's not strictly necessary to replace these with the name and pronouns used by 
 
 ### rhyme
 
-![rhyme](/res/rhyme.jpg)
+![rhyme](/assets/rhyme.jpg)
 
 pronouns: *she/her*
 
@@ -31,7 +31,7 @@ rhyme likes sugar and order.
 
 ### exo
 
-![exo](/res/exo.jpg)
+![exo](/assets/exo.jpg)
 
 pronouns: *they/them*
 
@@ -42,7 +42,7 @@ exo likes quiet and perfection.
 
 ### vessel
 
-![vessel](/res/vessel.jpg)
+![vessel](/assets/vessel.jpg)
 
 pronouns: *it/its*
 
