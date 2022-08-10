@@ -21,13 +21,14 @@ twinkle tier\
 ## bandcamp
 
 ### 6&times;337 (I)
-no one yet...
+*Cara Salter* ($10)\
+*Arcade Wise* ($3)
 
 ### so much
-no one yet...
+*Matt Ronchetto* ($1)
 
 ### 43&times;47 (II)
 no one yet...
 
 ### 43&times;47 (I)
-*Matthew Stanciu ($10)*
+*Matthew Stanciu* ($10)
