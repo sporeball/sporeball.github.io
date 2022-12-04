@@ -13,6 +13,10 @@ not all of these projects are officially completed, or even in an active state o
 a hardware implementation of the OISC [abcout](https://esolangs.org/wiki/Abcout){:target="_blank"}, with additional tools\
 status: *always being worked on*
 
+#### [Clover](https://github.com/sporeball/clover){:target="_blank"}
+declarative programming language\
+status: *in development*
+
 #### [e](https://e.dino.icu){:target="_blank"}
 scribbly, purpose-built drawing app\
 status: *functional*
