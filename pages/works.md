@@ -25,6 +25,10 @@ status: *functional*
 quieter alternative to the GitHub integration for the Hack Club Slack\
 status: *public archive*
 
+#### [hss.js](https://npmjs.com/package/@sporeball/hss.js){:target="_blank"}
+library for Haskell-style strings in JavaScript\
+status: *released*
+
 #### [kell](https://sporeball.dev/kell)
 the simplest and smallest code editor for web, with no dependencies -- forked from [spell](https://github.com/sylvainpolletvillard/spell){:target="_blank"}\
 status: *released*
