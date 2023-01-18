@@ -1,2 +1,2 @@
 # sporeball.github.io
-my website
+our website
