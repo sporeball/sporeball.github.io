@@ -20,7 +20,11 @@ twinkle tier\
 
 ## bandcamp
 
+#### SPIT
+*B Smith* ($2)
+
 ### 6&times;337 (II)
+*B Smith* ($6)\
 *Laker Turner* ($5)
 
 #### I'M STILL HERE
