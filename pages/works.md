@@ -13,6 +13,18 @@ not all of these projects are officially completed, or even in an active state o
 a hardware implementation of the OISC [abcout](https://esolangs.org/wiki/Abcout){:target="_blank"}, with additional tools\
 status: *always being worked on*
 
+#### [ABCO-2](https://github.com/sporeball/ABCO-2){:target="_blank"}
+stronger [abcout](https://esolangs.org/wiki/Abcout){:target="_blank"} machine, running in the browser\
+status: *inactive*
+
+#### [Aster](https://github.com/sporeball/Aster){:target="_blank"}
+parser generator\
+status: *development hell*
+
+#### [cirno](https://github.com/sporeball/cirno){:target="_blank"}
+full-featured circuit design tool\
+status: *it's complicated*
+
 #### [Clover](https://github.com/sporeball/clover){:target="_blank"}
 declarative programming language\
 status: *in development*
@@ -27,6 +39,10 @@ status: *public archive*
 
 #### [hss.js](https://npmjs.com/package/@sporeball/hss.js){:target="_blank"}
 library for Haskell-style strings in JavaScript\
+status: *released*
+
+#### [inscrutable](https://sporeball.dev/inscrutable)
+strange color-matching game\
 status: *released*
 
 #### [kell](https://sporeball.dev/kell)
@@ -44,6 +60,10 @@ status: *released*
 #### [linn](https://npmjs.com/package/linn){:target="_blank"}
 a little tool that reorders CSS properties to conform to the guide ["How to organize CSS"](https://9elements.com/css-rule-order){:target="_blank"}\
 status: *released*
+
+#### [Lucy](https://github.com/sporeball/lucy-bot){:target="_blank"}
+chess bot that's supposed to play about as well as we do (not very)\
+status: *always being worked on*
 
 #### [muffy](https://github.com/sporeball/muffy){:target="_blank"}
 Discord bot that temporarily restricts the channels you're allowed to use by deleting your messages as soon as you try to send them\
@@ -73,9 +93,17 @@ status: *released*
 a to-do list for your terminal, written in Node.js\
 status: *inactive*
 
-#### [otto](https://github.com/sporeball){:target="_blank"}
+#### [num.js](https://github.com/sporeball/num.js){:target="_blank"}
+library to provide a wrapper for JavaScript's Number primitive\
+status: *released*
+
+#### [otto](https://github.com/sporeball/otto){:target="_blank"}
 Electron app to help with focus, with the tagline "bring your brain back into the foreground"\
 status: *public archive*
+
+#### [plur](https://github.com/sporeball/plur){:target="_blank"}
+mental health and life tracker for plural systems\
+status: *it's complicated*
 
 #### [project OMEGA](https://github.com/sporeball){:target="_blank"}
 a tiny game console, powered by the Adafruit METRO Mini\
@@ -84,10 +112,6 @@ status: *public archive; indefinitely shelved*
 #### so much
 an experimental video game dealing with the concept of burnout\
 status: *private; indefinitely shelved*
-
-#### [sol](https://github.com/sporeball/sol){:target="_blank"}
-if you know, you know\
-status: *it's complicated*
 
 #### [tentamen](https://npmjs.com/package/tentamen){:target="_blank"}
 a tiny (less than 50 source lines of code) JavaScript testing framework\
