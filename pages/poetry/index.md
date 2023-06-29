@@ -7,6 +7,7 @@ we started writing poetry in 2023. predictably, much of it is written from a sys
 
 ## full list
 
+06/27/23 &mdash; [pride.](pride)\
 06/22/23 &mdash; [incomplete.](incomplete)\
 06/14/23 &mdash; [evyha.](evyha)\
 06/10/23 &mdash; [night walk.](night_walk)\
