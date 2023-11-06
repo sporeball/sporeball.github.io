@@ -3,9 +3,7 @@ title: system information
 layout: page
 ---
 
-we are a *plural system* of *3 headmates*.
-
-![all three headmates](/assets/headmates.jpg)
+we are a *plural system* of *4 headmates*.
 
 this page only serves to describe each of us, and how to refer to us; [morethanone.info](https://morethanone.info){:target="_blank"} has some good information about the concept of plurality as a whole.
 
@@ -50,3 +48,15 @@ vessel is quite mysterious and contradictory. it favors the path of least resist
 no one is quite sure what to make of it, including itself.
 
 vessel likes noise and stimulation.
+
+### ghost
+
+![ghost](/assets/ghost.jpg)
+
+pronouns: *none*\
+avatar credit: *Lucy A.*
+
+ghost may come and go, but ghost's motive is eternal: help take care of the rest of the system when the rest of the system can't take care of itself.\
+that is, as long as ghost is able to take care of ghost first.
+
+ghost likes darkness and safety.
