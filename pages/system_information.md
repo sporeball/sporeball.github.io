@@ -60,3 +60,15 @@ ghost may come and go, but ghost's motive is eternal: help take care of the rest
 that is, as long as ghost is able to take care of ghost first.
 
 ghost likes darkness and safety.
+
+### fae
+
+![fae](/assets/fae.jpg)
+
+pronouns: *fae/faer*
+avatar credit: *Lucy A.*
+
+fae was originally thought to be a persecutor, someone who exists purely to harm the system; however, with love, care, and time, fae has become much happier, and is now working to uncover who fae really is.\
+fae finds communication difficult, but is more than happy to speak when around the right people.
+
+fae likes bugs and hyha.
