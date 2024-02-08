@@ -65,7 +65,7 @@ ghost likes darkness and safety.
 
 ![fae](/assets/fae.jpg)
 
-pronouns: *fae/faer*
+pronouns: *fae/faer*\
 avatar credit: *Lucy A.*
 
 fae was originally thought to be a persecutor, someone who exists purely to harm the system; however, with love, care, and time, fae has become much happier, and is now working to uncover who fae really is.\
