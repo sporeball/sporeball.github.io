@@ -3,7 +3,7 @@ title: system information
 layout: page
 ---
 
-we are a *plural system* of *4 headmates*.
+we are a *plural system* of *5 headmates*.
 
 this page only serves to describe each of us, and how to refer to us; [morethanone.info](https://morethanone.info){:target="_blank"} has some good information about the concept of plurality as a whole.
 

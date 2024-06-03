@@ -6,7 +6,7 @@ layout: page
 ![sporeball's avatar](assets/avatar.png)
 
 hi there!\
-we are a [plural system of 4 headmates](pages/system_information), making weird things slowly.\
+we are a [plural system of 5 headmates](pages/system_information), making weird things slowly.\
 *it's nice to meet you.*
 
 ### stuff we're responsible for
