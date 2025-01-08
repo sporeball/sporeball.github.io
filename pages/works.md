@@ -3,11 +3,19 @@ title: works
 layout: page
 ---
 
-otherwise known as *all the things we're responsible for.*
+we are responsible for a number of interesting projects, both at Hack Club and beyond.
 
 not all of these projects are officially completed, or even in an active state of development; the "status" underneath each entry should provide some clues.
 
-## full list
+<a href="{{ '/' | absolute_url }}">back</a>
+
+## at Hack Club
+
+#### [kicad-wakatime](https://hack.club/kw){:target="_blank"}
+WakaTime plugin for KiCAD, written in Rust\
+status: *released; code freeze*
+
+## beyond
 
 #### [ABCO-1](https://github.com/sporeball/ABCO-1){:target="_blank"}
 a hardware implementation of the OISC [abcout](https://esolangs.org/wiki/Abcout){:target="_blank"}, with additional tools\
@@ -22,8 +30,12 @@ parser generator\
 status: *development hell*
 
 #### [cirno](https://github.com/sporeball/cirno){:target="_blank"}
-full-featured circuit design tool\
-status: *it's complicated*
+full-featured circuit design tool; written in JavaScript\
+status: *obsolete*
+
+#### [cirno-rust](https://github.com/sporeball/cirno-rust){:target="_blank"}
+Rust port of cirno with more features\
+status: *in development*
 
 #### [Clover](https://github.com/sporeball/clover){:target="_blank"}
 declarative programming language\
@@ -49,6 +61,14 @@ status: *released*
 the simplest and smallest code editor for web, with no dependencies -- forked from [spell](https://github.com/sylvainpolletvillard/spell){:target="_blank"}\
 status: *released*
 
+#### [Khel](https://github.com/sporeball/Khel){:target="_blank"}
+30-key additive color rhythm game\
+status: *always being worked on*
+
+#### [koneko](https://github.com/sporeball/koneko){:target="_blank"}
+the language of little tools and toys\
+status: *inactive*
+
 #### [language-naz](https://github.com/sporeball/language-naz){:target="_blank"}
 [naz](https://sporeball.dev/naz) language package for [Atom](https://atom.io){:target="_blank"}\
 status: *functional*
@@ -57,13 +77,17 @@ status: *functional*
 a hyperfocused Jekyll theme for documentation; designed as the theme for [victus](https://sporeball.dev/victus)' documentation\
 status: *released*
 
+#### [lightbot](https://github.com/sporeball/lightbot){:target="_blank"}
+Discord bot written in Rust, designed to act a bit like Event[0]'s Kaizen\
+status: *inactive*
+
 #### [linn](https://npmjs.com/package/linn){:target="_blank"}
 a little tool that reorders CSS properties to conform to the guide ["How to organize CSS"](https://9elements.com/css-rule-order){:target="_blank"}\
 status: *released*
 
 #### [Lucy](https://github.com/sporeball/lucy-bot){:target="_blank"}
 chess bot that's supposed to play about as well as we do (not very)\
-status: *always being worked on*
+status: *inactive*
 
 #### [muffy](https://github.com/sporeball/muffy){:target="_blank"}
 Discord bot that temporarily restricts the channels you're allowed to use by deleting your messages as soon as you try to send them\
@@ -105,13 +129,17 @@ status: *public archive*
 mental health and life tracker for plural systems\
 status: *it's complicated*
 
-#### [project OMEGA](https://github.com/sporeball){:target="_blank"}
+#### [project OMEGA](https://github.com/sporeball/project-omega){:target="_blank"}
 a tiny game console, powered by the Adafruit METRO Mini\
 status: *public archive; indefinitely shelved*
 
 #### so much
 an experimental video game dealing with the concept of burnout\
 status: *private; indefinitely shelved*
+
+#### [sol](https://github.com/sporeball/sol){:target="_blank"}
+the precursor to [cirno](#cirno); written in TypeScript\
+status: *obsolete*
 
 #### [tentamen](https://npmjs.com/package/tentamen){:target="_blank"}
 a tiny (less than 50 source lines of code) JavaScript testing framework\

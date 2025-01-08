@@ -7,6 +7,8 @@ we pretty much just do what we do for fun, but all of these lovely people have, 
 
 the idea for this page was shamelessly stolen from [Nicky Case](https://ncase.me){:target="_blank"}.
 
+<a href="{{ '/' | absolute_url }}">back</a>
+
 ## patreon
 
 ### flame tier
