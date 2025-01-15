@@ -15,6 +15,10 @@ not all of these projects are officially completed, or even in an active state o
 WakaTime plugin for KiCAD, written in Rust\
 status: *released; code freeze*
 
+#### [Minus Twelve](https://minustwelve.hackclub.com){:target="_blank"}
+create a useful tool and receive a shiny new microcontroller ([YSWS](https://ysws.hackclub.com){:target="_blank"})\
+status: *active*
+
 ## beyond
 
 #### [ABCO-1](https://github.com/sporeball/ABCO-1){:target="_blank"}
