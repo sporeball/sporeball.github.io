@@ -12,8 +12,8 @@ not all of these projects are officially completed, or even in an active state o
 ## at Hack Club
 
 #### [Black Box](https://blackbox.hackclub.com){:target="_blank"}
-???\
-status: *coming soon*
+create a constrained, interactive C program and get a portable device to run it on ([YSWS](https://ysws.hackclub.com){:target="_blank"})\
+status: *active*
 
 #### [kicad-wakatime](https://hack.club/kw){:target="_blank"}
 WakaTime plugin for KiCAD, written in Rust\
@@ -22,6 +22,10 @@ status: *released; code freeze*
 #### [Minus Twelve](https://minustwelve.hackclub.com){:target="_blank"}
 create a useful tool and receive a shiny new microcontroller ([YSWS](https://ysws.hackclub.com){:target="_blank"})\
 status: *completed*
+
+#### [solvian](https://github.com/sporeball/solvian){:target="_blank"}
+answer frequently asked questions on the Hack Club Slack\
+status: *deployed*
 
 ## beyond
 
