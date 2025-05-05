@@ -7,7 +7,7 @@ layout: page
 
 ### about
 
-we are a [plural system of 7 headmates](pages/system_information), making weird things slowly.\
+we are a [plural system of 8 headmates](pages/system_information), making weird things slowly.\
 *it's nice to meet you.*
 
 we currently work at [Hack Club](https://hackclub.com){:target="_blank"} as part of the engineering team.

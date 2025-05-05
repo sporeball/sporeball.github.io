@@ -3,7 +3,7 @@ title: system information
 layout: page
 ---
 
-we are a *plural system* of *7 headmates*.
+we are a *plural system* of *8 headmates*.
 
 this page only serves to describe each of us, and how to refer to us; [morethanone.info](https://morethanone.info){:target="_blank"} has some good information about the concept of plurality as a whole.
 
@@ -97,3 +97,14 @@ riot has never spoken a word; instead, they show a preference for quiet grunts a
 vessel has especially taken a liking to them due to their unpredictability.
 
 riot likes plushies and the color pink.
+
+### thief
+
+![thief](/assets/thief.jpg)
+
+pronouns: *they/them*
+
+thief made themself known through a spate of unexpected nightmares in 2025; they claim their purpose is not to participate in this world, but to show the system another one.\
+the leading theory is that the nightmares they cause, although inconsistent and clouded by allegory, are meant to help rhyme and the rest of the system perform trauma work.
+
+thief likes pitch-black darkness and the color gray.
