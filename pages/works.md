@@ -13,7 +13,11 @@ not all of these projects are officially completed, or even in an active state o
 
 #### [Black Box](https://blackbox.hackclub.com){:target="_blank"}
 create a constrained, interactive C program and get a portable device to run it on ([YSWS](https://ysws.hackclub.com){:target="_blank"})\
-status: *active*
+status: *completed*
+
+#### [datagrabber](https://github.com/sporeball/dg){:target="_blank"}
+data manipulation tool built on the shoulders of [Clover](https://github.com/sporeball/clover){:target="_blank"}\
+status: *in development*
 
 #### [kicad-wakatime](https://hack.club/kw){:target="_blank"}
 WakaTime plugin for KiCAD, written in Rust\
@@ -26,6 +30,10 @@ status: *completed*
 #### [solvian](https://github.com/sporeball/solvian){:target="_blank"}
 answer frequently asked questions on the Hack Club Slack\
 status: *deployed*
+
+#### [Tonic](https://tonic.hackclub.com){:target="_blank"}
+make a Jekyll theme, show it to the world, and we'll send you a hat ([YSWS](https://ysws.hackclub.com){:target="_blank"})\
+status: *active*
 
 ## beyond
 
